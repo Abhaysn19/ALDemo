@@ -1,0 +1,28 @@
+{
+  "id": "d7af3778-fad3-4f23-ae4a-5e925e70a1c3",
+  "name": "ALDemo",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "Add new field in Customer table and export it on page",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
